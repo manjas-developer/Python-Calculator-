@@ -1,3 +1,5 @@
+import math
+
 print("SIMPLE CALCULATOR")
 
 print("Please choose a operator")
@@ -9,6 +11,8 @@ print("2.Subtraction")#Choose it for subtracting your numbers
 print("3.Multiply")#Choose it for multiplying your numbers
 
 print("4.Division")#Choose it for dividing your numbers
+
+print("5.HCF")
 
 a=int(input("Choose a operator 1, 2, 3 or 4 :")) #Choose the operation you want to perform
 
