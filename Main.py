@@ -30,7 +30,7 @@ elif a==3:
     print(b,"*",c,"=",b*c)
 
 elif a==4:
-    print(b,"/",c,"=" ,divmod(b,c))
+    print(b,"/",c,"=","Quotient,Remainder=" ,divmod(b,c))
 
 elif a==5:
     print("HCF OF",b,c,"=",math.gcd(b,c))
@@ -40,4 +40,4 @@ else:
 
 #CREATED BY MANJAS ANAND
 
-print(“Thank You For Using!”)
+print("Thank You For Using!”)
